@@ -177,6 +177,6 @@
       "image": "/assets/og-image.png"
     }
   },
-  "theme": null,   // TODO: add theme.json later
-  "offers": null   // TODO: add offers.json later
+  "theme": null,   
+  "offers": null
 }
