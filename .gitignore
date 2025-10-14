@@ -141,5 +141,11 @@ vite.config.ts.timestamp-*
 
 
 #custom 
-assets/
+assets/images/products/laptops/
+assets/images/products/makeup/
+assets/images/products/parfums/
+assets/images/products/clothing/shoes-women
+assets/images/products/clothing/sneakers
+assets/images/products/clothing/watches
+
  
