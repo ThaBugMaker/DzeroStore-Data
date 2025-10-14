@@ -1,0 +1,182 @@
+{
+  "products": [
+    {
+      "id": "hoodie-01",
+      "name": "Basic Hoodie",
+      "category": "clothing",
+      "model": "hoodie",
+      "price": 3500,
+      "discount": 10,
+      "rating": 4.7,
+      "description": "Soft cotton hoodie designed for comfort and daily wear.",
+      "tags": ["casual", "cotton", "unisex"],
+      "variants": [
+        {
+          "color": "yellow",
+          "sizes": ["S", "L", "XL"],
+          "stockQnt": 5,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-yellow.webp"
+        },
+        {
+          "color": "olive",
+          "sizes": ["S", "M", "L"],
+          "stockQnt": 5,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-olive.webp"
+        },
+        {
+          "color": "green",
+          "sizes": ["M", "L", "XL"],
+          "stockQnt": 0,
+          "inStock": false,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-green.webp"
+        },
+        {
+          "color": "blue",
+          "sizes": ["M", "L", "XL"],
+          "stockQnt": 10,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-blue.webp"
+        },
+        {
+          "color": "black",
+          "sizes": ["S", "M", "L", "XL"],
+          "stockQnt": 25,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-black.webp"
+        }
+      ]
+    },
+    {
+      "id": "long-sleeves-01",
+      "name": "Classic sweatshirt",
+      "category": "clothing",
+      "model": "long-sleeves",
+      "price": 2800,
+      "discount": 5,
+      "rating": 4.5,
+      "description": "Lightweight long-sleeve sweatshirt perfect for layering and cool weather.",
+      "tags": ["casual", "lightweight", "cotton"],
+      "variants": [
+        {
+          "color": "#2596be",
+          "sizes": ["L", "XL"],
+          "stockQnt": 10,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/long-sleeves/long-sleeves-mint.webp"
+        },
+        {
+          "color": "black",
+          "sizes": ["S", "M", "L", "XL"],
+          "stockQnt": 20,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/long-sleeves/long-sleeves-black.webp"
+        }
+      ]
+    },
+    {
+      "id": "shirt-01",
+      "name": "Everyday T-Shirt",
+      "category": "clothing",
+      "model": "shirts",
+      "price": 2000,
+      "discount": 0,
+      "rating": 4.6,
+      "description": "Soft breathable T-shirt for everyday casual wear.",
+      "tags": ["casual", "cotton", "summer"],
+      "variants": [
+        {
+          "color": "white",
+          "sizes": ["S", "M", "L"],
+          "stockQnt": 30,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/shirt-white.webp"
+        },
+        {
+          "color": "black",
+          "sizes": ["S", "M", "L", "XL"],
+          "stockQnt": 20,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/shirt-black.webp"
+        },
+        {
+          "color": "black",
+          "type": "polo",
+          "sizes": ["M", "L", "XL"],
+          "stockQnt": 15,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/polo-black.webp"
+        },
+        {
+          "color": "yellow",
+          "type": "polo",
+          "sizes": ["M", "L"],
+          "stockQnt": 5,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/polo-black.webp"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "clothing",
+      "name": "Clothing",
+      "slug": "clothing",
+      "description": "Hoodies, shirts, and long sleeves.",
+      "icon": "shirt"
+    }
+  ],
+  "store": {
+    "id": "dzero-store",
+    "name": "Dzero Store",
+    "repoUrl": "https://raw.githubusercontent.com/ThaBugMaker/DzeroStore-Data/main/",
+    "tagline": "Simple. Clean. Local.",
+    "about": "Dzero Store is a minimalist Algerian clothing shop offering clean designs and essential wear for everyday comfort.",
+    "currency": "DZD",
+    "contact": {
+      "email": "contact@dzerostore.shop",
+      "phone": "+213000000000"
+    },
+    "social": {
+      "facebook": "https://facebook.com/dzerostore",
+      "instagram": "https://instagram.com/dzerostore",
+      "tiktok": "https://tiktok.com/@dzerostore"
+    },
+    "branding": {
+      "logo": "/assets/logo.png",
+      "favicon": "/assets/favicon.png"
+    },
+    "location": {
+      "country": "Algeria",
+      "city": "Tipaza"
+    },
+    "delivery": {
+      "available": true,
+      "regions": ["16", "42", "09", "35"]
+    }
+  },
+  "seo": {
+    "title": "Dzero Store | Minimal Algerian Clothing",
+    "description": "Discover clean, essential designs from Dzero Store — hoodies, shirts, and long sleeves made for everyday comfort in Algeria.",
+    "keywords": [
+      "Dzero Store",
+      "clothing",
+      "hoodies",
+      "shirts",
+      "Algeria",
+      "minimal fashion"
+    ],
+    "author": "Dzero Store",
+    "lang": "en",
+    "openGraph": {
+      "site_name": "Dzero Store",
+      "type": "website",
+      "url": "https://dzerostore.com",
+      "image": "/assets/og-image.png"
+    }
+  },
+  "theme": null,   // TODO: add theme.json later
+  "offers": null   // TODO: add offers.json later
+}
