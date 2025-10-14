@@ -1,0 +1,29 @@
+{
+  "id": "dzero-store",
+  "name": "Dzero Store",
+  "repoUrl": "https://raw.githubusercontent.com/ThaBugMaker/DzeroStore-Data/refs/heads/main/",
+  "tagline": "Simple. Clean. Local.",
+  "about": "Dzero Store is a minimalist Algerian clothing shop offering clean designs and essential wear for everyday comfort.",
+  "currency": "DZD",
+  "contact": {
+    "email": "contact@dzerostore.shop",
+    "phone": "+213000000000"
+  },
+  "social": {
+    "facebook": "https://facebook.com/dzerostore",
+    "instagram": "https://instagram.com/dzerostore",
+    "tiktok": "https://tiktok.com/@dzerostore"
+  },
+  "branding": {
+    "logo": "/assets/logo.png",
+    "favicon": "/assets/favicon.png"
+  },
+  "location": {
+    "country": "Algeria",
+    "city": "Tipaza"
+  },
+  "delivery": {
+    "available": true,
+    "regions": ["16", "42", "09", "35"]
+  }
+}
