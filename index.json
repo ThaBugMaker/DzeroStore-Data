@@ -114,7 +114,7 @@
           "sizes": ["M", "L"],
           "stockQnt": 5,
           "inStock": true,
-          "image": "/assets/images/products/clothing/shirts/polo-black.webp"
+          "image": "/assets/images/products/clothing/shirts/polo-yellow.webp"
         }
       ]
     }
@@ -177,6 +177,6 @@
       "image": "/assets/og-image.png"
     }
   },
-  "theme": null,   
+  "theme": null,
   "offers": null
 }
