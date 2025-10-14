@@ -1,0 +1,17 @@
+{
+  "name": "dzerostore-data",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ThaBugMaker/DzeroStore-Data#readme",
+  "bugs": {
+    "url": "https://github.com/ThaBugMaker/DzeroStore-Data/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ThaBugMaker/DzeroStore-Data.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js"
+}

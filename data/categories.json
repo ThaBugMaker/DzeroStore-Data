@@ -1,0 +1,9 @@
+[
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "slug": "clothing",
+    "description": "Hoodies, shirts, and long sleeves.",
+    "icon": "shirt"
+  }
+]

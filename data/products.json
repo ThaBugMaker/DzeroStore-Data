@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": "hoodie-01",
+      "name": "Basic Hoodie",
+      "category": "clothing",
+      "model": "hoodie",
+      "price": 3500,
+      "discount": 10,
+      "rating": 4.7,
+      "description": "Soft cotton hoodie designed for comfort and daily wear.",
+      "tags": ["casual", "cotton", "unisex"],
+      "variants": [
+        {
+          "color": "yellow",
+          "sizes": ["S", "L", "XL"],
+          "stockQnt": 5,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-yellow.webp"
+        },
+        {
+          "color": "olive",
+          "sizes": ["S", "M", "L"],
+          "stockQnt": 5,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-olive.webp"
+        },
+        {
+          "color": "green",
+          "sizes": ["M", "L", "XL"],
+          "stockQnt": 0,
+          "inStock": false,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-green.webp"
+        },
+        {
+          "color": "blue",
+          "sizes": ["M", "L", "XL"],
+          "stockQnt": 10,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-blue.webp"
+        },
+        {
+          "color": "black",
+          "sizes": ["S", "M", "L", "XL"],
+          "stockQnt": 25,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/hoodies/hoodie-black.webp"
+        }
+      ]
+    },
+    {
+      "id": "long-sleeves-01",
+      "name": "Classic sweatshirt",
+      "category": "clothing",
+      "model": "long-sleeves",
+      "price": 2800,
+      "discount": 5,
+      "rating": 4.5,
+      "description": "Lightweight long-sleeve sweatshirt perfect for layering and cool weather.",
+      "tags": ["casual", "lightweight", "cotton"],
+      "variants": [
+        {
+          "color": "#2596be",
+          "sizes": ["L", "XL"],
+          "stockQnt": 10,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/long-sleeves/long-sleeves-mint.webp"
+        },
+        {
+          "color": "black",
+          "sizes": ["S", "M", "L", "XL"],
+          "stockQnt": 20,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/long-sleeves/long-sleeves-black.webp"
+        }
+      ]
+    },
+    {
+      "id": "shirt-01",
+      "name": "Everyday T-Shirt",
+      "category": "clothing",
+      "model": "shirts",
+      "price": 2000,
+      "discount": 0,
+      "rating": 4.6,
+      "description": "Soft breathable T-shirt for everyday casual wear.",
+      "tags": ["casual", "cotton", "summer"],
+      "variants": [
+        {
+          "color": "white",
+          "sizes": ["S", "M", "L"],
+          "stockQnt": 30,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/shirt-white.webp"
+        },
+        {
+          "color": "black",
+          "sizes": ["S", "M", "L", "XL"],
+          "stockQnt": 20,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/shirt-black.webp"
+        },
+        {
+          "color": "black",
+          "type": "polo",
+          "sizes": ["M", "L", "XL"],
+          "stockQnt": 15,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/polo-black.webp"
+        },
+        {
+          "color": "yellow",
+          "type": "polo",
+          "sizes": ["M", "L"],
+          "stockQnt": 5,
+          "inStock": true,
+          "image": "/assets/images/products/clothing/shirts/polo-black.webp"
+        }
+      ]
+    }
+  ]
+}

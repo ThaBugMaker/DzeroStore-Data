@@ -1,0 +1,20 @@
+{
+  "title": "Dzero Store | Minimal Algerian Clothing",
+  "description": "Discover clean, essential designs from Dzero Store — hoodies, shirts, and long sleeves made for everyday comfort in Algeria.",
+  "keywords": [
+    "Dzero Store",
+    "clothing",
+    "hoodies",
+    "shirts",
+    "Algeria",
+    "minimal fashion"
+  ],
+  "author": "Dzero Store",
+  "lang": "en",
+  "openGraph": {
+    "site_name": "Dzero Store",
+    "type": "website",
+    "url": "https://dzerostore.com",
+    "image": "/assets/og-image.png"
+  }
+}
