@@ -181,7 +181,7 @@
   "store": {
     "id": "dzero-store",
     "name": "Dzero Store",
-    "repoUrl": "https://raw.githubusercontent.com/ThaBugMaker/DzeroStore-Data/main/",
+    "repoUrl": "https://cdn.jsdelivr.net/gh/ThaBugMaker/DzeroStore-Data",
     "tagline": "Simple. Clean. Local.",
     "about": "Dzero Store is a minimalist Algerian clothing shop offering clean designs and essential wear for everyday comfort.",
     "currency": "DZD",
