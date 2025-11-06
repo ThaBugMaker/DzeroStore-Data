@@ -195,8 +195,8 @@
       "tiktok": "https://tiktok.com/@dzerostore"
     },
     "branding": {
-      "logo": "/assets/logo.png",
-      "favicon": "/assets/favicon.png"
+      "logo": "./assets/logo.png",
+      "favicon": "./assets/favicon.png"
     },
     "location": {
       "country": "Algeria",
